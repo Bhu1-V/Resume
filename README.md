@@ -1,8 +1,8 @@
 # BHUVANESHWAR VEMULA
 
-```
-http://www.linkedin.com/in/bhuvaneshwar-vemula/|github.com/Bhu1-V
-```
+
+[Linked In](http://www.linkedin.com/in/bhuvaneshwar-vemula/) | [GitHub](https://github.com/Bhu1-V/)
+
 ## PROFESSIONAL SUMMARY
 
 ```
@@ -45,29 +45,34 @@ Jr. Game Developer April 2022 – Dec 2023
 ### Google Summer of Code Student (C++) June 2021 – August 2021
 
 ```
-Godot Game Engine Remote|Project Link
+Godot Game Engine Remote 
 ```
+[Project Link](https://summerofcode.withgoogle.com/archive/2021/projects/5660917559197696)
 - **Core Engine Contribution:** Engineered a foundational engine feature in C++, demonstrating strong OOP skills and a deep
     understanding of software architecture.
 
 ## PROJECTS
 
 ```
-3D Multiplayer FPS (Fury 2.0) |Unity, C#, Networking|Project Link
+3D Multiplayer FPS (Fury 2.0) | Unity, C#, Networking
 ```
+[Project Link](https://github.com/Bhu1-V/Fury-Multiplayer)
+
 - Developed a competitive 3D multiplayer shooter, implementing a **server-authoritative architecture** for state
     synchronization and low latency.
 - Engineered core gameplay systems including character movement, weapon mechanics, and UI elements like scoreboards and
     timers.
 
 ```
-Angle Dasher - Hyper Casual Game |Unity, C#|Project Link
+Angle Dasher - Hyper Casual Game | Unity, C#
 ```
+[Project Link](https://eastereggstudios.itch.io/angle-dasher)
 - Designed and developed a fast-paced, hyper-casual game with an addictive, one-tap gameplay loop to drive player retention.
 
 ```
-Gameboy Emulator (RIPBoy) |Rust, Systems Programming|Project Link
+Gameboy Emulator (RIPBoy) | Rust, Systems Programming
 ```
+[Project Link](github.com/Bhu1-V/RIPBoy)
 - Built a complete emulator from scratch, showcasing exceptional problem-solving skills and a deep understanding of low-level
     systems.
 
